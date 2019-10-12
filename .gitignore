@@ -1,3 +1,7 @@
+*.dev
+*.docx
+*.doc
+
 # Prerequisites
 *.d
 
@@ -27,6 +31,5 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
